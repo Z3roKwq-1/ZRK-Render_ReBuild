@@ -1,17 +1,17 @@
 {
     "ASI": {
+        "BUILDDATE": "25.02.2023",
         "NAME": "ZRK-Render_RB",
-        "VERSION": "3.0.0",
-        "BUILDDATE": "25.02.2023"
+        "VERSION": "3.0.0"
     },
-   "SF": {
-        "NAME": "ZRK-Render",
-        "VERSION": "2.9.4",
-        "BUILDDATE": "04.02.2023"
-    },
-   "LUA": {
+    "LUA": {
+        "BUILDDATE": "-",
         "NAME": "SVRender",
-        "VERSION": "1.1",
-        "BUILDDATE": "-"
+        "VERSION": "1.1"
     },
+    "SF": {
+        "BUILDDATE": "04.02.2023",
+        "NAME": "ZRK-Render",
+        "VERSION": "2.9.4"
+    }
 }
